@@ -17,3 +17,9 @@ tr{
     justify-content: center;
     text-align: left;
 }
+td{
+    padding-bottom: 8px;
+}
+i{
+    padding-right: 8px;
+}
